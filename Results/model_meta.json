@@ -1,0 +1,6 @@
+{
+    "Model_Type": "XGBoost",
+    "R2_Score": 0.9675,
+    "MSE": 492569.36,
+    "RMSE": 701.8329
+}
